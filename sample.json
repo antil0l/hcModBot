@@ -1,0 +1,17 @@
+{
+    "test": {
+        "nick": "NICK HERE",
+        "password": "PASSWORD HERE",
+        "channel": "CHANNEL HERE"
+    },
+    "programming": {
+        "nick": "NICK HERE",
+        "password": "PASSWORD HERE",
+        "channel": "CHANNEL HERE"
+    },
+    "your-channel": {
+        "nick": "NICK HERE",
+        "password": "PASSWORD HERE",
+        "channel": "CHANNEL HERE"
+    }
+}
