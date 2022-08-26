@@ -83,7 +83,6 @@ def currentChat(ws):
         serverInfo(serverResponse)
 
 
-
 """
 x{'cmd': 'onlineSet', 'nicks': ['lold', 'test'], 'users': [{'channel': 'bot-test', 'isme': False, 'nick': 'lold', 'trip': 'xhvbdp', 'uType': 'mod', 'hash': 'GxRM5O28hT+PWgV', 'level': 999999, 'userid': 790810229387, 'isBot': False, 'color': False}, {'isme': True, 'isBot': False, 'nick': 'test', 'trip': 'xhvbdp', 'uType': 'mod', 'hash': 'GxRM5O28hT+PWgV', 'level': 999999, 'userid': 5107671142066, 'color': False, 'channel': 'bot-test'}], 'channel': 'bot-test', 'time': 1661181914662}
 x{'cmd': 'info', 'text': 'New beta available at: https://beta.hack.chat/ or https://beta.hack.chat/?bot-test', 'channel': 'bot-test', 'time': 1661181914662}

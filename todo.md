@@ -1,3 +1,4 @@
+```json
 ---
 -[ ]
 
@@ -251,3 +252,4 @@ Description: UwU W-whats thwis?
 
 Usage:
 API: { cmd: 'uwuify', nick: '<target nick>' }
+```

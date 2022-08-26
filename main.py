@@ -1,11 +1,11 @@
-import coreFunctions
-import commands
+import core
+import cmd
 
 
-ws = coreFunctions.wscon()
-coreFunctions.joinChannel(ws, 'test')
+ws = core.wscon()
+core.joinChannel(ws, 'test')
 
 # the calls in this loop will be on spread threads
 while True:
-    coreFunctions.currentChat(ws)
-    commands.whiteTrips = coreFunctions.whiteTrips
+    core.currentChat(ws)
+    cmd.whiteTrips = core.whiteTrips

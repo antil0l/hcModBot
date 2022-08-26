@@ -1,4 +1,4 @@
-import coreFunctions
+import core
 
 whiteTrips = []
 # the calls for other commands will happen from here
