@@ -1,10 +1,11 @@
 import core
 
 whiteTrips = []
+blackTrips = []
 # the calls for other commands will happen from here
 
 
-def listener(chat):
+def handler(command):
     pass
 
 
